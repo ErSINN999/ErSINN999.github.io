@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -41,6 +41,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,7 +69,7 @@
       <workItem from="1729863527560" duration="137000" />
       <workItem from="1729864789328" duration="49000" />
       <workItem from="1730841669882" duration="1606000" />
-      <workItem from="1730887688531" duration="4442000" />
+      <workItem from="1730887688531" duration="6607000" />
     </task>
     <servers />
   </component>
