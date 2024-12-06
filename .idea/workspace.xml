@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -34,7 +34,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/Labo 10/Demo-responsive-studenten/Bootstrap/style",
+    "last_opened_file_path": "C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/Labo 10/Oef1/CSS",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -47,11 +47,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 10\Oef1\CSS" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 10\Oef1" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 10" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 10\Demo-responsive-studenten\Bootstrap\style" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 10\Demo-responsive-studenten\Float\Style" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 8" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 7\demo" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 7\demo\background-image" />
@@ -83,6 +83,7 @@
       <workItem from="1732702051954" duration="6226000" />
       <workItem from="1733246494362" duration="8266000" />
       <workItem from="1733307188956" duration="6178000" />
+      <workItem from="1733472217287" duration="4352000" />
     </task>
     <servers />
   </component>
