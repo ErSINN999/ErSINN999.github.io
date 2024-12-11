@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -29,31 +29,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/Labo 10/Oef1/CSS",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/Labo 11/Demo/Grid&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11\Demo\Grid" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11\Demo" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 10\Oef1\CSS" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 10\Oef1" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 10" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 10\Demo-responsive-studenten\Bootstrap\style" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 10\Demo-responsive-studenten\Float\Style" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11\Demo\Grid\grid-area" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 7\demo\background-image" />
     </key>
   </component>
@@ -83,7 +85,8 @@
       <workItem from="1732702051954" duration="6226000" />
       <workItem from="1733246494362" duration="8266000" />
       <workItem from="1733307188956" duration="6178000" />
-      <workItem from="1733472217287" duration="4352000" />
+      <workItem from="1733472217287" duration="4431000" />
+      <workItem from="1733911315918" duration="6947000" />
     </task>
     <servers />
   </component>
