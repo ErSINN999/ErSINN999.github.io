@@ -14,6 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="Dockerfile" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -34,29 +36,31 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/Labo 11/Demo/Grid&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/2 semester/Labo 1&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 1" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11\Demo\Grid" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11\Demo" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 10\Oef1\CSS" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 10\Oef1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 2" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\1 semester" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 12\Demo\Flex Container\styles" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11\Demo\Grid\grid-area" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 7\demo\background-image" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -88,6 +92,15 @@
       <workItem from="1733472217287" duration="4431000" />
       <workItem from="1733911315918" duration="6947000" />
       <workItem from="1734470294146" duration="6318000" />
+      <workItem from="1734513435359" duration="6421000" />
+      <workItem from="1736866824953" duration="13774000" />
+      <workItem from="1736927336315" duration="9664000" />
+      <workItem from="1736946472376" duration="2427000" />
+      <workItem from="1738584699842" duration="5386000" />
+      <workItem from="1738879388152" duration="3000" />
+      <workItem from="1738879403589" duration="9000" />
+      <workItem from="1739278002345" duration="5195000" />
+      <workItem from="1739712312806" duration="224000" />
     </task>
     <servers />
   </component>
