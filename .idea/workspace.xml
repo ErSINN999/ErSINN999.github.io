@@ -36,7 +36,7 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/2 semester/Labo 1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/2 semester/Labo 2&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -49,11 +49,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 2" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 1" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11\Demo\Grid" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11\Demo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 2" />
@@ -100,11 +100,23 @@
       <workItem from="1738879388152" duration="3000" />
       <workItem from="1738879403589" duration="9000" />
       <workItem from="1739278002345" duration="5195000" />
-      <workItem from="1739712312806" duration="224000" />
+      <workItem from="1739712312806" duration="3384000" />
+      <workItem from="1739829600178" duration="3473000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/2 semester/Labo 2/Opdracht 4/script/code.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
