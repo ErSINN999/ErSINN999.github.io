@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77199490-7196-4c7d-86b7-49f3beca9010" name="Changes" comment="" />
+    <list default="true" id="77199490-7196-4c7d-86b7-49f3beca9010" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Man van An/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Man van An/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Man van An/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Prom/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Prom/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Prom/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Spaties/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Spaties/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Spaties/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Gemeenten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Gemeenten/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Gemeenten/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Triagrams/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Triagrams/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Triagrams/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/de en het/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/de en het/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/de en het/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/demo img/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/demo img/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/demo img/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/formwaarden/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/formwaarden/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/formwaarden/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,24 +65,24 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/2 semester/Labo 2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/2 semester/Labo 5&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 2" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 1" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11\Demo\Grid" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 5" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 5\de en het" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 5\demo img" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 4" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 2" />
@@ -102,6 +131,12 @@
       <workItem from="1739278002345" duration="5195000" />
       <workItem from="1739712312806" duration="3384000" />
       <workItem from="1739829600178" duration="3473000" />
+      <workItem from="1739868996098" duration="4164000" />
+      <workItem from="1739873627537" duration="6155000" />
+      <workItem from="1741618452683" duration="746000" />
+      <workItem from="1741644392618" duration="5370000" />
+      <workItem from="1741683250887" duration="9869000" />
+      <workItem from="1742218687121" duration="2797000" />
     </task>
     <servers />
   </component>
