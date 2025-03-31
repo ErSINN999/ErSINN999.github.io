@@ -1,34 +1,21 @@
 const setup = () => {
-	let btnVerzenden = document.getElementById('verzenden');
-	btnVerzenden.addEventListener('click', onClick);
+	gemeentenOpslaan();
 }
+const gemeentenOpslaan = () => {
 
-const onClick = () => {
-	let txtText = document.getElementById('text');
-	let tekst = txtText.value;
+	let promptResult = "";
 
-	let listTriagrams = document.getElementById("output");
-	let triagrams = getTriagrams(tekst);
+	while(promptResult !== 'stop'){
 
-	let output = "";
-	for (let i = 0; i < triagrams.length; i++) {
-		output += "<li>" + triagrams[i] + "</li>";
+		promptResult = window.prompt("Geef een gemeente op:", "");
+
+		if(promptResult !== 'stop'){
+			let select = document.getElementById("gemeentes");
+			let option = document.createElement("option");
+			option.text = promptResult;
+			option.value = promptResult;
+			select.add(option);
+		}
 	}
-
-	listTriagrams.innerHTML = output;
 }
-
-const getTriagrams = (tekst) => {
-	let result = [];
-	let triagram;
-
-	// Start iterating up to 3 characters from the end
-	for (let i = 0; i < tekst.length - 3; i++) {
-		triagram = tekst.slice(i, i + 3);
-		result.push(triagram);
-	}
-
-	return result;
-}
-
 window.addEventListener("load", setup);

@@ -5,34 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77199490-7196-4c7d-86b7-49f3beca9010" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Man van An/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Man van An/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Man van An/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Prom/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Prom/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Prom/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Spaties/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Spaties/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/Spaties/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Gemeenten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Gemeenten/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Gemeenten/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Triagrams/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Triagrams/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Triagrams/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/de en het/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/de en het/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/de en het/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/demo img/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/demo img/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/demo img/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/formwaarden/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/formwaarden/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/formwaarden/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Formvalidatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Formvalidatie/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 5/Formvalidatie/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/demo/createnote/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/demo/createnote/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/demo/createnote/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/demo/notes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/demo/notes/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/demo/notes/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/demo/selector/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/demo/selector/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/demo/selector/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/extra ofng Nodes/Oefening 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/extra ofng Nodes/Oefening 1/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/extra ofng Nodes/Oefening 1/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/extra ofng Nodes/Oefening 2/images/foto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/extra ofng Nodes/Oefening 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/extra ofng Nodes/Oefening 2/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/extra ofng Nodes/Oefening 2/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/extra ofng Nodes/Oefening 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/extra ofng Nodes/Oefening 3/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/extra ofng Nodes/Oefening 3/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/extra ofng Nodes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/Labo 7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/js_test_start/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/js_test_start/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 semester/Labo 5/Gemeenten/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2 semester/Labo 5/Gemeenten/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 semester/Labo 5/Gemeenten/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/2 semester/Labo 5/Gemeenten/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 semester/Labo 5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2 semester/Labo 5/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,36 +63,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/2 semester/Labo 5&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/2 semester/Labo 7",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Errors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 5" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 5\de en het" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 5\demo img" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 4" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 3" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 7" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 6\extra ofng Nodes\Oefening 2" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 6\extra ofng Nodes" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 6" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 6\demo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 6\extra ofng Nodes\Oefening 2\images" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 6\extra ofng Nodes\Oefening 1" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 6" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 6\demo\selector" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 2" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\1 semester" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 12\Demo\Flex Container\styles" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\Labo 11" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -137,6 +140,9 @@
       <workItem from="1741644392618" duration="5370000" />
       <workItem from="1741683250887" duration="9869000" />
       <workItem from="1742218687121" duration="2797000" />
+      <workItem from="1742288188815" duration="11537000" />
+      <workItem from="1742459027930" duration="271000" />
+      <workItem from="1743457909219" duration="2181000" />
     </task>
     <servers />
   </component>
