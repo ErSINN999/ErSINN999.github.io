@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77199490-7196-4c7d-86b7-49f3beca9010" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2 semester/ToDo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/ToDo/script/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 semester/ToDo/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 semester/Labo 10/Internet Start Page/start-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2 semester/Labo 10/Internet Start Page/start-page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 semester/Labo 10/Internet Start Page/start-page/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/2 semester/Labo 10/Internet Start Page/start-page/scripts/code.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +18,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="Dockerfile" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -40,7 +41,7 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/2 semester/Labo 8/start contact manager opdracht&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/Labo/Nieuwe map/ErSINN999.github.io/2 semester/ToDo&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -53,18 +54,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\ToDo" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 8\start contact manager opdracht" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 10\Internet Start Page" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 10" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 9" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester" />
+      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\ToDo" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 10" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 9" />
       <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 6\extra ofng Nodes\Oefening 2\images" />
-      <recent name="C:\GitHub\Labo\Nieuwe map\ErSINN999.github.io\2 semester\Labo 6\extra ofng Nodes\Oefening 1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -121,6 +122,7 @@
       <workItem from="1745319469969" duration="2000" />
       <workItem from="1745913923775" duration="8313000" />
       <workItem from="1746522968010" duration="5802000" />
+      <workItem from="1747127108183" duration="5345000" />
     </task>
     <servers />
   </component>
